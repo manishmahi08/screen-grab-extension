@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "Screnshot Extension",
+    "version": "1.0",
+    "description": "Get Screenshot of current page",
+    "action": {
+      "default_popup": "src/popup.html"
+    },
+    "permissions": [
+      "activeTab"
+    ]
+  }
+  
